@@ -4,3 +4,6 @@ gradle
 settings.gradle
 .gradle
 .idea
+test
+src/main/java/test.java
+build
